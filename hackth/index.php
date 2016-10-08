@@ -100,10 +100,8 @@
 	 <div id="foolicencia">
 	  <div class="container">
 	                 <p class="footer"> Página Web desarrollada por: Team EC153 para el HACK153</p>
-					 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
-					 	<img alt="Licencia Creative Commons" style="border-width:0" src="Hack153_%20Primer%20Hackathon%20de%20Dinero%20Electr%C3%B3nico%20del%20Ecuador_files/88x31.png"></a><br>El contenido y formato de este evento está bajo una
-					 		<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional</a>.
-	        </div>
+		<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Este obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional</a>.
+					 </div>
 	  </div>      
 	</footer>
  </body>
