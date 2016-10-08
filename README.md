@@ -1,0 +1,2 @@
+# eMoneyAccesible
+Plataforma web con Nivel de Accesibilidad AAA, que permite a las personas con discapacidad visual y auditiva, acceder a las transacciones de uso de dinero electrónico para compra y pago de productos y servicios, y su posterior validación en dispositivos de proximidad, apoyados en software de tecnología asistiva como de lectores de pantalla así como subtitulado, guías en lengua de señas, y validación a través de NFC
